@@ -3,11 +3,6 @@ Different DOT files got bash, zsh, git
 
 ## Steps to bootstrap a new System
 
-### 1.  Clone repo into dotfiles directory.
-```
-git clone git@github.com:divakaran-arrcus/DOTfiles.git ~/dotfiles
-```
-
 ### 2. Install apps on debian
 ```
     sudo apt update
